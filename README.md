@@ -1,4 +1,4 @@
-# HR_Analysis 
+# HR Analytics Dashboard
 # Objective
 
 The HR Analytics Dashboard aims to provide a comprehensive view of key HR metrics and employee demographics. By leveraging Power BI, the dashboard offers insights into employee composition, attrition rates, compensation, and other vital HR metrics to support data-driven decision-making and enhance human resource management strategies.
